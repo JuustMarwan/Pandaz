@@ -1,5 +1,6 @@
-# **Pandaz**
+# **Pandaz (Outdated)**
 **The Official Core System For MCPE Practice Server Pandaz.** 🎮🔥
+**Inspired And Based On Vasar Core By Wqrro**
 
 <hr>
 
@@ -58,11 +59,11 @@
   - All bans are carried out through both an IP and client-id blacklisting
   - Notifications on rank changes, ban/mute/rank expirations, gamemode changes, anti-cheat alerts
   - Staff chat (use `!` before your message)
-- [x] Anti-Cheat
+- [x] Anti-Cheat (Not the best)
   - Reach
   - CPS
   - High ping
-- [x] Anti-Abuse
+- [x] Anti-Abuse (Not the best)
   - Swearing
   - Advertising
   - Toxic
