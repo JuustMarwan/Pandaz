@@ -2,7 +2,7 @@ name: Pandaz
 main: Zinkil\Pandaz\Core
 api: 3.0.0
 version: 3.4.0
-author: Zinkil
+author: [Zinkil, Wqrro]
 website: https://github.com/Zinkil-YT
 description: "The Offical Core Of Pandaz MCPE Practice Server."
 
