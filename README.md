@@ -162,14 +162,6 @@ topkills:
 - [ ] Anti-Swearing/Toxic improvments to support more languages
 - [ ] Better color scheme
 
-## Questions or any help:
-
 <hr>
 
-Contact me on discord **Zinkil#2006** you can also join our discord server [Pandaz Practice](https://discord.gg/2zt7P5EUuN)
-
-Feel free to subscribe to my channel [MR Zinkil](https://www.youtube.com/channel/UCW1PI028SEe2wi65w3FYCzg) 😇👍
-
-<hr>
-
-### <b>Made with ❤ by Zinkil</b>
+<h6> Made by JuustMarwan And Wqrro
